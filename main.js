@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 document.addEventListener("DOMCOntentLoaded",() => {
     const button = document.querySelector("btn");
     button == nul || button === void ? void 0 : button.addEventListener("click", () => {
